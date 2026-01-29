@@ -1,5 +1,3 @@
-# blog
-# blog
-# blog
-# blog
-# blog
+# Blog
+
+Self-Explainatory
