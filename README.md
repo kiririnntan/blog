@@ -1,1 +1,3 @@
-Yeah Right
+# Blog
+
+Self-Explainatory
