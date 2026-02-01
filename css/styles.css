@@ -17,8 +17,6 @@ body {
   align-items: center;
   width: 100vw;
   min-height: 100vh;
-  /* background: linear-gradient(to bottom, rgba(255, 255, 255, 1) 0%,rgba(255, 0, 195, 0) 100%); */
-  background-color: #dfb6d9;
   overflow: hidden;
   z-index: 0;
 }
